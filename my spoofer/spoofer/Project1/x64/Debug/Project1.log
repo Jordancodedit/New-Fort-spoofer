@@ -1,0 +1,4 @@
+﻿D:\visual studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\xdefl\OneDrive\Desktop\spoofer\Project1\main.cpp(165): warning C4715: 'loading': not all control paths return a value
+  Project1.vcxproj -> C:\Users\xdefl\OneDrive\Desktop\spoofer\x64\Debug\Titanium spoofer.exe
